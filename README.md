@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @PupppyLoverr
-- 👀 I’m interested in C++ and Python coding
+- 👀 I’m interested in C++ and Python coding, React
+- Founder/Co-Founder of woozlit.com
 - 🌱 I’m currently learning about Phython
 - 💞️ I’m looking to collaborate on a new project I am wokring on called CosmosOS, which aims to be a operating system for laptops unlike all the others out there
 - 📫 You can reach me from this email: secretintelof2100@gmail.com
