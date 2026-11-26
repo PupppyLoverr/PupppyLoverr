@@ -1,7 +1,9 @@
 <div align="center">
 
 <img src="assets/header.gif" alt="Aarav — independent builder working on AI and operating systems" width="100%">
-
+<img width="1200" height="340" alt="header" src="https://github.com/user-attachments/assets/67b18bdd-4581-4ab8-b21a-591bbd3dad63" />
+</p>
+AARAV Y 🚀
 <p>
   <a href="https://github.com/PupppyLoverr">GitHub</a> ·
   <a href="https://x.com/ravthemann">X</a> ·
@@ -103,7 +105,7 @@ Projects change as I learn. Check each repository for its current status, roadma
 
 ## Find me
 
-- **X:** [@ravthemann](https://x.com/ravthemann)<img width="1200" height="340" alt="header" src="https://github.com/user-attachments/assets/67b18bdd-4581-4ab8-b21a-591bbd3dad63" />
+- **X:** [@ravthemann](https://x.com/ravthemann)
 - **Projects:** [github.com/PupppyLoverr](https://github.com/PupppyLoverr)
 - **Startup:** [woozlit.com](https://woozlit.com)
 
@@ -111,5 +113,3 @@ Projects change as I learn. Check each repository for its current status, roadma
 
 *Big ideas are fun. Making them real is better.*
 
-</div>
-<img width="1200" height="340" alt="header" src="https://github.com/user-attachments/assets/27c019c5-ce32-403d-b6f9-87e1703f409d" />
