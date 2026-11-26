@@ -41,9 +41,9 @@ An experimental Linux distribution focused on a polished desktop, thoughtful win
 </td>
 <td width="50%" valign="top">
 
-### [Keplorayx (aka K22)](https://github.com/PupppyLoverr/dove)
+### [CosmosOS](https://github.com/PupppyLoverr/CosmosOS)
 
-**An operating system built from the ground up.**
+**An operating system built from the ground up. PURE EXPERIMENT**
 
 A bootable, interactive x86_64 operating system written in Rust, exploring the kernel, scheduling, filesystems, networking, compositing, and native applications.
 
@@ -54,7 +54,7 @@ A bootable, interactive x86_64 operating system written in Rust, exploring the k
 <tr>
 <td width="50%" valign="top">
 
-### [Cosmos](https://github.com/PupppyLoverr/cosmos)
+### [Keplorayx (aka K22)](https://github.com/PupppyLoverr/dove)
 
 **A workspace for coding agents.**
 
