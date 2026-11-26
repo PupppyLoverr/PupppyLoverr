@@ -1,122 +1,115 @@
-<!--
-  Aarav / PupppyLoverr
-  Profile README
--->
-
 <div align="center">
 
-# AARAV
+<img src="assets/header.gif" alt="Aarav — independent builder working on AI and operating systems" width="100%">
 
-**Independent builder · AI systems · Operating systems**
+<p>
+  <a href="https://github.com/PupppyLoverr">GitHub</a> ·
+  <a href="https://x.com/ravthemann">X</a> ·
+  <a href="https://woozlit.com">Woozlit</a>
+</p>
 
-Building software at the intersection of intelligent agents, developer tools, and the desktop.
+**Independent builder · AI systems · Operating systems · Developer tools**
 
-[Projects](#selected-work) &nbsp; / &nbsp; [Open source](#open-source--experiments) &nbsp; / &nbsp; [Connect](#elsewhere)
-
-<br/>
-
-`BUILD` &nbsp; `EXPERIMENT` &nbsp; `ITERATE`
+Building software at the intersection of intelligent agents, operating systems, and thoughtful interface design.
 
 </div>
 
 ---
 
-### CURRENTLY
+## What I'm building
 
-I build things I wish existed.
+I'm Aarav, a young independent developer and founder working across the stack, from low-level systems to AI-powered software and desktop experiences.
 
-My work spans AI-powered developer tools, autonomous computer systems, operating-system interfaces, and the infrastructure that connects them.
-
-I care about software that feels thoughtfully designed, works at the system level, and gives people more control over their computers.
-
-**Founder of [Woozlit](https://woozlit.com)**, working on independent software and the next generation of AI-powered experiences.
-
----
+I like building ambitious things, understanding how they work underneath, and making them feel good to use. Most of my work lives somewhere between **systems engineering, AI agents, and product design**.
 
 ## Selected work
 
-### 01 / CosmosOS
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**A bootable operating system built in Rust.**
+### [Solyra OS](https://github.com/PupppyLoverr/Infi-AI)
 
-Exploring operating systems beyond the conventional desktop stack, from kernel and memory management to window composition, native applications and system services.
+**A Linux desktop for people and AI agents.**
 
-[Explore the repository →](https://github.com/PupppyLoverr/CosmosOS)
+An experimental Linux distribution focused on a polished desktop, thoughtful window management, and safer, isolated workspaces for AI agents.
 
-`RUST` &nbsp; `OS DEVELOPMENT` &nbsp; `SYSTEMS`
+`Linux` `Rust` `Desktop` `AI agents`
 
----
+</td>
+<td width="50%" valign="top">
 
-### 02 / Cosmos
+### [CosmosOS](https://github.com/PupppyLoverr/CosmosOS)
 
-**A workspace for AI agents and developers.**
+**An operating system built from the ground up.**
 
-Working at the intersection of coding agents, local execution, model integrations, persistent sessions and cloud-connected development workflows.
+A bootable, interactive x86_64 operating system written in Rust, exploring the kernel, scheduling, filesystems, networking, compositing, and native applications.
 
-[Explore the repository →](https://github.com/PupppyLoverr/cosmos)
+`Rust` `OS development` `x86_64`
 
-`RUST` &nbsp; `AI AGENTS` &nbsp; `DEVELOPER TOOLS`
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### [Cosmos](https://github.com/PupppyLoverr/cosmos)
 
-### 03 / Solyra OS
+**A workspace for coding agents.**
 
-**Rethinking the desktop experience.**
+Exploring a native environment for working with AI coding agents, model providers, local development, and cloud-connected workflows.
 
-Building a Linux desktop environment with a focus on refined interaction design, translucent materials, fluid surfaces and a more cohesive operating-system experience.
+`Rust` `AI agents` `Developer tools`
 
-`LINUX` &nbsp; `RUST` &nbsp; `DESKTOP UX`
+</td>
+<td width="50%" valign="top">
 
----
+### [Woozlit](https://woozlit.com)
 
-### 04 / Woozlit & AI experiments
+**Building toward more connected AI.**
 
-**Making AI more connected and useful.**
+My startup work explores multi-model AI experiences, agentic workflows, and ways to make intelligent tools work together.
 
-Exploring AI applications, agentic workflows, model interoperability and tools that help people work across different systems.
+`AI` `Product` `Startups`
 
-[Woozlit](https://woozlit.com) &nbsp; · &nbsp; [GitHub projects](https://github.com/PupppyLoverr?tab=repositories)
+</td>
+</tr>
+</table>
 
-`AI` &nbsp; `OPEN SOURCE` &nbsp; `EXPERIMENTAL SOFTWARE`
+## Other things I explore
 
----
+- **wcode** — AI-assisted development workflows and agentic coding tools.
+- **Computer-use agents** — systems that can work with software alongside people, with understandable boundaries and control.
+- **Interface engineering** — desktop UX, animation, rendering, and the small details that make software feel cohesive.
+- **Open-source experiments** — prototypes, infrastructure, and ideas worth testing in public.
 
-## Open source & experiments
+Projects change as I learn. Check each repository for its current status, roadmap, and contribution guidelines.
 
-I enjoy working across the stack, from low-level systems and rendering pipelines to interfaces and intelligent software.
+## How I like to build
 
-| Area | What I'm exploring |
-|:--|:--|
-| AI systems | Agents, computer use, model orchestration |
-| Operating systems | Rust, Linux, kernels and desktop environments |
-| Developer tools | Coding workflows, automation and local-first software |
-| Interface engineering | Interaction design, animation and visual systems |
-| Open source | Building in public, experimentation and collaboration |
+- **Understand the system.** Prefer evidence and first principles over cargo-culting.
+- **Treat design as engineering.** Performance, usability, and visual quality belong together.
+- **Build in the open.** Share useful work and make it easier for others to learn from it.
+- **Keep iterating.** Prototype, measure, learn, and improve.
 
-My projects evolve. Some are experiments, some are under active development, and some are long-term bets. The repositories are the source of truth for their current state.
+## Stack & interests
 
----
+<p>
+  <img src="https://img.shields.io/badge/Rust-Systems-8b6cff?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/Linux-Desktop-8b6cff?style=flat-square&logo=linux&logoColor=white" alt="Linux">
+  <img src="https://img.shields.io/badge/AI-Agents-8b6cff?style=flat-square" alt="AI agents">
+  <img src="https://img.shields.io/badge/TypeScript-Tools-8b6cff?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Systems-Engineering-8b6cff?style=flat-square" alt="Systems engineering">
+</p>
 
-## Principles
+## Find me
 
-**Build from first principles.** Understand the system before adding another layer.
-
-**Design is part of engineering.** Performance, interaction and visual quality belong in the same conversation.
-
-**Keep software open where possible.** Make tools people can inspect, adapt and build upon.
-
-**Ship, measure, improve.** Interesting ideas matter most when they become working software.
-
----
-
-## Elsewhere
-
-[GitHub](https://github.com/PupppyLoverr) &nbsp; · &nbsp; [X / @ravthemann](https://x.com/ravthemann) &nbsp; · &nbsp; [Woozlit](https://woozlit.com)
-
-<br/>
+- **X:** [@ravthemann](https://x.com/ravthemann)<img width="1200" height="340" alt="header" src="https://github.com/user-attachments/assets/67b18bdd-4581-4ab8-b21a-591bbd3dad63" />
+- **Projects:** [github.com/PupppyLoverr](https://github.com/PupppyLoverr)
+- **Startup:** [woozlit.com](https://woozlit.com)
 
 <div align="center">
 
-*Independent software. Ambitious ideas. One commit at a time.*
+*Big ideas are fun. Making them real is better.*
 
 </div>
+<img width="1200" height="340" alt="header" src="https://github.com/user-attachments/assets/27c019c5-ce32-403d-b6f9-87e1703f409d" />
