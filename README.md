@@ -41,7 +41,7 @@ An experimental Linux distribution focused on a polished desktop, thoughtful win
 </td>
 <td width="50%" valign="top">
 
-### [CosmosOS](https://github.com/PupppyLoverr/CosmosOS)
+### [Keplorayx (aka K22)](https://github.com/PupppyLoverr/dove)
 
 **An operating system built from the ground up.**
 
