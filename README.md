@@ -107,7 +107,8 @@ Projects change as I learn. Check each repository for its current status, roadma
 
 - **X:** [@ravthemann](https://x.com/ravthemann)
 - **Projects:** [github.com/PupppyLoverr](https://github.com/PupppyLoverr)
-- **Startup:** [woozlit.com](https://woozlit.com)
+- **Startup:** [woozlit.com](https://woozlit.com) and nexiloop (website soon).
+- **Hugging Face**: [huggingface.com/nexiloopofficial](https://huggingface.com/nexiloopofficial)
 
 <div align="center">
 
